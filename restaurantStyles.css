@@ -1,0 +1,18 @@
+header, footer {
+  text-align: center;
+  background-color: #c40166;
+  font-family: 'Lobster', cursive;
+}
+
+a:link {
+  color: orange;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  font-weight: bold;
+}
+a:active {
+  text-decoration: underline;
+} 
